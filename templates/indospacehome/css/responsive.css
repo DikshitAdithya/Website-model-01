@@ -1,0 +1,1162 @@
+@media only screen and (min-width: 1367px){
+    .Map #Map .pune .line::before{height:285px;}
+    .Map #Map .ncr{right:-12%;}
+    .Map #Map .bengaluru.Andhra .hdetail{left:610px;}
+    .Map #Map .bengaluru.Andhra .line{left:calc(-375px + 5px); width:380px;}
+    .Map #Map .bengaluru.Andhra .line::before{height:185px;}
+    .Map #Map .bengaluru{left:25.7%; top:81.5%;}
+}
+
+@media only screen and (max-width: 1349px) {
+.Map #Map .pune .line::before{height:230px;}
+.Map #Map .ncr .hdetail{left:calc(-100% + -30px);}
+.Map #Map .bengaluru.Andhra .hdetail{left:518px;}
+}
+
+@media only screen and (max-width: 1366px) {
+    header{padding:10px 0;}
+    header .logo{width:280px;}
+    header.fixed .logo{width:250px}
+    .hSliderSec .homeContentWrap{margin:60px 0 0;}
+    .hBannerSlider ul li{background-size:100% 100%;}
+.latestNewsList ul li {
+	min-height: 325px;
+}
+.newsList ul li {
+	min-height: 344px;
+}
+.turnkey h2, .latestNews h2, .standOut h2 {
+	margin: 0 0 20px;
+}
+div.infoBox {
+	margin-left: -205px;
+}
+.Map #Map .bengaluru.Andhra {    left: -4%;
+    top: 50%;
+	
+	}
+.Map #Map .bengaluru.Andhra .line:before {height:135px;}	
+}
+@media only screen and (min-width: 1590px) {
+	.Map #Map .ncr .hdetail { left: calc(-100% + -285px); }
+	.Map #Map .chennai{right: -34%; }
+	.Map #Map .karnataka{left: -27%;}
+	.Map #Map .bengaluru.Andhra{left: 4%;}
+	.Map #Map .Gujrat.mInfo{left: 8%; top:54%;}
+	
+	
+	
+}
+@media only screen and (max-width:1280px) {   
+    .Map #Map .chennai .hdetail{right:203px; top:-158px;}   
+    .Map #Map .bengaluru.Andhra .hdetail{left:492px; top:-93px;}
+	.turnkey .turnkeyListing li {width: 24%;}
+	.Map #Map .ncr{right:23%;}
+.turnkey .turnkeyListing li.merg2 {
+	width: 47.4%;
+}
+.container {
+	max-width: 94%;
+}
+.turnkey h2, .latestNews h2, .standOut h2 {
+	font-size: 28px;
+}
+.midSection h1, .midSection h2 {
+	font-size: 28px;
+}
+.ourParksDetails > .left, .ourParksDetails > .right {
+	padding: 44px 3% 44px 3%;
+	vertical-align: top;
+}
+.mp_detail .mapCon {
+	width: 90%;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+}
+.Map #Map .bengaluru.Andhra { left:1%;}
+.Map #Map .chennai {right: -54%;}
+.Map #Map .karnataka{left: -40%; top: 74%;}
+    .Map #Map .Gujrat.mInfo{left:6%; top:56%;}
+}
+
+@media only screen  and (max-width:1024px){  
+    .Map #Map .bengaluru.Andhra .hdetail{left:545px;}
+    .Map #Map .bengaluru.Andhra .line:before{height:155px;}
+    .Map #Map .chennai .line::before{height:114px;}
+    .Map #Map .chennai .line::after{width:60px; top:112px;}
+    .Map #Map .bengaluru .line{left:calc(-270px + 5px); width:270px;}
+    .Map #Map .bengaluru .hdetail{top:-82px; left: calc(100% + 292px);}
+	.Map #Map .chennai{top: 93%; right:-29%}
+	.Map #Map .chennai .line {width: 120px;top: 14px;right: calc(100% - 110px);}
+	.Map #Map .chennai .line::after{ top:92px}
+	.Map #Map .chennai .line::before {height: 94px;}   
+	.Map #Map .karnataka .line {width: 190px; top: 12px; left: calc(129px + 9px);}
+    .Map #Map .karnataka{left: -25%;top: 75.5%;}
+    .Map #Map .ncr{right:29%;}
+}
+ @media (max-width:1100px) and (min-width:769px) {
+.capbilities_diagram ul.diagrm {
+	width: 635px;
+}
+.capbilities_diagram ul.diagrm li {
+	height: 110px;
+	padding: 10px 38px;
+}
+.capbilities_diagram ul.diagrm h1 {
+	font-size: 28px;
+}
+.capbilities_diagram ul.diagrm li {
+	width: 208px;
+}
+.capbilities_diagram ul.diagrm h3 {
+	font-size: 16px;
+	font-weight: 600;
+	margin: 0 0 8px 0;
+}
+.capbilities_diagram ul.diagrm p {
+	font-size: 12px;
+	line-height: normal;
+}
+.capbilities_diagram ul.diagrm {
+	max-width: 100%;
+}
+.capbilities_diagram ul.diagrm li {
+	width: 237px;
+	max-width: 32.5%;
+	height: 129px;
+}
+.capbilities_diagram ul.diagrm li.first, .capbilities_diagram ul.diagrm li.ninth {
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
+}
+ @media only screen and (max-width:1100px) {
+.hSliderSec .homeContentWrap {
+	padding: 68px 0;
+	margin: 0;
+}
+.latestNewsList ul li {
+	margin: 0 0 0 1.9%;
+}
+.hBannerSlider ul li .caption h1 {
+	font-size: 32px;
+}
+.downArrow, .downArrow.midArrow {
+	display: none;
+}
+.VisionMissionWrap .mission {
+	overflow-x: hidden;
+}
+div.infoBox {
+	margin-top: 28px;
+	margin-left: -235px
+}
+.ourParksSearchSec .ParkSearchFilters .area {
+	width: 20.5%;
+}
+.hBannerSlider ul li > img {
+	display: block;
+}
+.findProjectBtn {
+	top: 6%;
+	left: auto;
+	right: 0;
+	padding: 18px 13px 26px;
+	font-size: 20px;
+	width: 200px;
+}
+.findProjectBtn span {
+	font-size: 12px;
+}
+.Map #Map {
+	margin: 30px 38px 30px 140px;
+}
+.aboutIndo {
+	position: static;
+}
+ul.diagrm li.fifth {
+	right: -100px;
+}
+}
+@media only screen and (max-width:1080px) {
+.midSection .imgInfo h2 {
+	font-size: 24px;
+}
+.bodWrap .bod {
+	width: 100%;
+	margin: 0 0 20px;
+}
+.bodWrap .bod ul li {
+	width: 49%;
+	float: left;
+}
+.testimonial ul li {
+	min-height: 550px;
+}
+}
+@media only screen and (max-width:979px) {
+    .Map #Map .chennai{right:-26%;}
+   
+header {
+	position:static;
+}
+.turnkey .turnkeyListing li.merg2 {
+	width: 100%;
+}
+.turnkey .turnkeyListing li {
+	width: 50%;
+}
+.latestNewsList ul li, .latestNewsList ul li:nth-child(1) {
+	width: 47%;
+	margin: 0 1% 10px;
+}
+.standOut .standOutList ul li {
+	width: 48%;
+	margin: 0 0 10px;
+}
+footer .left {
+	width: 45%;
+}
+.hBannerSlider ul li .caption {
+	bottom: 40px;
+}
+.hBannerSlider ul li .caption h1, .hBannerSlider ul li .caption .container .loc {
+	font-size: 24px;
+}
+.hBannerSlider .bx-controls {
+	bottom: 22px;
+}
+.hBannerSlider ul li .caption .container {
+	padding: 0 148px 0 0
+}
+/*    header, header .navigation {position: absolute;}*/
+header .navigation nav {
+	padding: 74px 0;
+}
+.midSection h1, .midSection h2 {
+	font-size: 24px;
+}
+.coreValues .coreValuesList ul li:nth-child(2n+1) {
+	margin: 0 0 30px;
+}
+.coreValues .coreValuesList > ul > li {
+	width: 48.8%;
+	margin: 0 0 30px 1%;
+	min-height: 500px;
+}
+.ourParksSearchSec .ParkSearchFilters label {
+	font-size: 15px;
+	margin: 0 1.6% 0 0;
+}
+.ourParksSearchSec .ParkSearchFilters .area {
+	margin: 0 1.6% 0 0;
+	width: 23%
+}
+.eventList ul li, .newsList ul li {
+	width: 32%;
+	margin: 0 0 20px 2%;
+}
+.eventList ul li:nth-child(4n+1), .newsList ul li:nth-child(4n+1) {
+	margin: 0 0 20px 2%;
+}
+.eventList ul li:nth-child(3n+1), .newsList ul li:nth-child(3n+1) {
+	margin: 0 0 20px;
+}
+.contactus .contacForm ul li .radio label {
+	width: 100%;
+}
+.contactus .contactMap iframe {
+	max-width: 100%;
+	width: 100%;
+}
+/*added by man */
+div.infoBox {
+	width: 410px !important;
+	margin-top: 25px;
+}
+div.infobox2 {
+	width: 26%;
+	float: left;
+}
+.infoBox .rightInfo {
+	padding-bottom: 10px;
+	width: 73%;
+}
+div.infobox3 {
+	font-size: 13px;
+	min-height: inherit;
+}
+.Map #Map .mInfo .hdetail .head, .Map #Map .mInfo .hdetail .proList, .Map #Map .mInfo .hdetail .upProList {
+	font-size: 12px;
+}
+.Map #Map .ncr .line {
+	top: 12px;
+}
+.Map #Map .ncr .hdetail {
+	width: 140px; top: -56px;
+	width: 140px; top: -56px;
+}
+
+.Map #Map .ncr .line {width:125px;}
+.Map #Map .ncr .line::before{height:55px;}
+    .Map #Map .bengaluru.Andhra .hdetail{left:370px; top:20px;}
+    .Map #Map .bengaluru.Andhra .line:before{height:60px;}
+    .Map #Map .bengaluru.Andhra .line{left:-181px; width:190px;}
+.Map #Map .ncr .line::after {
+	width: 46px;
+}
+.Map #Map .mumbai .hdetail {
+	top: -68px;
+	right: calc(100% + 56px);
+}
+.Map #Map .mumbai .line {
+	width: 78px;
+	top: 12px;
+}
+.Map #Map .mumbai .line::before {
+	height: 42px;
+}
+
+.Map #Map .bengaluru .line {
+	left:calc(-156px + 9px);
+	width:156px;
+	top: 12px;
+}
+.Map #Map .bengaluru .line::before {height:16px;}
+
+
+.pastEventListing ul li {
+	width: 30%;
+}
+.fancybox-next span {
+	width: 48px !important;
+	height: 48px !important;
+	background: rgba(0,0,0,.8) url(../images/fancybox_Next.png) center no-repeat !important;
+	right: 0 !important;
+	background-size: auto 30px !important;
+}
+.fancybox-prev span {
+	width: 48px !important;
+	height: 48px !important;
+	background: rgba(0,0,0,.8) url(../images/fancybox_Prev.png) center no-repeat !important;
+	left: 0 !important;
+	background-size: auto 30px !important;
+}
+.testimonial ul li figure figcaption {
+	width: 56%
+}
+    .Map #Map .bengaluru .line::after{width:10px; top:145px; left:-10px; display:none;}
+.Map #Map .bengaluru.Andhra { left:13%; top:49%;}	
+ .Map #Map .bengaluru .hdetail{top:-74px; left: calc(100% + 173px);} 
+}
+@media only screen and (max-width:768px) {
+.capbilities_diagram ul.diagrm {
+	width: 300px;
+}
+.capbilities_diagram ul.diagrm li {
+	width: 100%;
+}
+ul.diagrm li.first {
+	border-bottom: 5px solid rgba(16, 42, 76, 0.6);
+	position: absolute;
+	right: -190px;
+	top: 126px;
+}
+ul.diagrm li.second::before {
+	border-bottom: 15px solid transparent;
+	border-left: 24px solid #212c4b;
+	border-top: 15px solid transparent;
+	bottom: -40px;
+	right: auto;
+	top: auto;
+	left: 142px;
+}
+ul.diagrm li.second::after {
+	background: #212c4b;
+	border-bottom: none;
+	border-left: none;
+	border-top: none;
+	bottom: -14px;
+	right: auto;
+	top: auto;
+	width: 8px;
+	height: 14px;
+}
+ul.diagrm li.third::after {
+	border-left: 24px solid #212c4b;
+	top: auto;
+	right: auto;
+	bottom: -40px;
+	left: 142px;
+}
+ul.diagrm li.third::before {
+	width: 8px;
+	height: 14px;
+	bottom: -14px;
+	top: auto;
+	right: auto;
+}
+ul.diagrm li.fifth {
+	border-bottom: 5px solid rgba(16, 42, 76, 0.6);
+	height: 49px;
+	padding: 0;
+	position: absolute;
+	right: -190px;
+	text-align: center;
+	top: 468px;
+}
+ul.diagrm li.forth .bottom_arrow {
+	display: none;
+}
+ul.diagrm li.forth:after {
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-top: 25px solid #6b6a6c;
+	bottom: -37px;
+	content: "";
+	left: 142px;
+	position: absolute;
+}
+ul.diagrm li.forth:before {
+	content: '';
+	width: 8px;
+	height: 14px;
+	bottom: -14px;
+	position: absolute;
+	background: #6b6a6c;
+	left: 153px;
+}
+ul.diagrm li.sixth, ul.diagrm li.seventh {
+	margin-bottom: 42px;
+}
+ul.diagrm li.seventh, ul.diagrm li.eighth {
+	border-right: 2px solid #212c4b;
+}
+ul.diagrm li.seventh, ul.diagrm li.seventh {
+	border-left: 2px solid #212c4b;
+}
+ul.diagrm li.sixth:after {
+	border-right: 24px solid #6b6a6c;
+	top: auto;
+	bottom: -38px;
+	left: 142px;
+}
+ul.diagrm li.sixth::before {
+	width: 8px;
+	height: 14px;
+	bottom: -14px;
+	top: auto;
+	left: 150px;
+	background: #6b6a6c;
+}
+ul.diagrm li.seventh .vrtical_sep {
+	display: none;
+}
+ul.diagrm li.seventh::before {
+	background: #212c4b;
+	border-bottom: none;
+	border-right: none;
+	border-top: none;
+	bottom: -14px;
+	height: 14px;
+	left: 150px;
+	top: auto;
+	width: 8px;
+}
+ul.diagrm li.seventh::after {
+	border-left: 15px solid transparent;
+	border-top: 25px solid #212c4b;
+	border-right: 15px solid transparent;
+	border-bottom: none;
+	left: 139px;
+	top: auto;
+	bottom: -38px;
+}
+ul.diagrm li.ninth {
+	border-bottom: 5px solid rgba(16, 42, 76, 0.6);
+	bottom: 125px;
+	height: 49px;
+	left: 190px;
+	position: absolute;
+	-webkit-transform: rotate(90deg);
+	        transform: rotate(90deg);
+}
+ul.diagrm li.second::before, ul.diagrm li.third::after, ul.diagrm li.first {
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+}
+ul.diagrm li.sixth:after {
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+}
+header .logo {
+	width: 268px;
+}
+header.fixed .logo {
+	width: 218px;
+}
+.customerInfo .customerLogos ul li {
+	width: 19%;
+}
+/*added by man */
+div.infoBox {
+	width: 240px !important;
+	margin-left: -154px;
+	margin-top: 42px;
+}
+div.infobox2 {
+	float: none;
+	width: 100%;
+}
+.infoBox .rightInfo {
+	padding: 10px;
+	width: 100%;
+}
+.aboutInfo {
+	display: block;
+}
+.aboutInfo::after {
+	content: '';
+	clear: both;
+	display: block;
+}
+.aboutInfo .video, .aboutInfo .upComingEvent, .aboutInfo .keystatistics {
+	display: block;
+}
+.aboutInfo .video {
+	float: left;
+	width: 64%;
+	min-height: 482px;
+	margin: 0 0 3px;
+}
+.aboutInfo .upComingEvent {
+	float: left;
+	width: 36%;
+	min-height: 482px;
+	border-right: 0;
+}
+.aboutInfo .keystatistics {
+	float: left;
+	width: 100%;
+}
+/*.aboutInfo .video img {position: static; transform: none;}*/
+
+.aboutEverstoneRealterm {
+	display: block;
+}
+.aboutEverstoneRealterm .left, .aboutEverstoneRealterm .right, .aboutEverstoneRealterm .midle {
+	display: block;
+	width: 100%;
+	margin: 0 0 20px;
+}
+.aboutEverstoneRealterm .right::before {
+	background-image: url(../images/aboutEverstoneRealtermBoxArrow.png);
+	right: 0;
+	left: auto;
+	-webkit-transform: rotateY(180deg);
+	        transform: rotateY(180deg);
+}
+/*.aboutEverstoneRealterm .left .detailWrap, .aboutEverstoneRealterm .right .detailWrap {display: block;}*/
+.aboutEverstoneRealterm .left, .aboutEverstoneRealterm .right, .aboutEverstoneRealterm .midle {
+	height: auto;
+}
+	.aboutEverstoneRealterm .midle::after {display: none;}
+.turnkey .turnkeyListing li .caption .info .infoContent .hover {
+	display: inline-block;
+}
+.Banner {
+	height: 252px;
+	background-position: center;
+	background-size: cover;
+}
+.Banner > img {
+	opacity: 0;
+}
+.Banner .innerCaption .container .innerCaptionText {
+	font-size: 18px;
+}
+.ourParksDetails {
+	display: block;
+}
+.ourParksDetails > .left, .ourParksDetails > .right {
+	display: block;
+	width: 100%;
+}
+header .navigation {
+	position: absolute;
+	display: none;
+}
+header .navigation.open {
+	display: block;
+}
+.testimonial ul li {
+	min-height: 700px;
+}
+.testimonial ul li figure > span {
+	float: none;
+	display: block;
+	text-align: center
+}
+.testimonial ul li figure figcaption {
+	float: none;
+	width: 100%;
+	text-align: center
+}
+    
+}
+@media only screen and (max-width:800px){
+     .Map #Map .ncr{right:33%;}
+    .Map #Map .Gujrat.mInfo .hdetail{left:calc(100% - 215px);}
+}
+
+@media only screen and (max-width:767px) {
+.hSliderSec .homeContentWrap {
+	padding: 32px 0;
+}
+.Map #Map {
+	padding: 0;
+	width: calc(100% - 178px);
+}
+.Map #Map img {
+	max-width: 100%;
+}
+.findProjectBtn span {
+	font-size: 10px;
+}
+
+.findProjectBtn::before {
+	width: 80px;
+	background-size: 48% auto;
+	height: 26px;
+	bottom: -12px;
+	font-size: 12px;
+	line-height: 28px;
+}
+.turnkey h2, .latestNews h2, .standOut h2 {
+	font-size: 22px
+}
+.midSection .imgInfo .pic, .midSection .imgInfo .info {
+	width: 100%;
+}
+.midSection .imgInfo .info {
+	margin-top: 30px;
+}
+.VisionMissionWrap .info .pic {
+	width: 100%;
+	clear: both;
+	margin: 0 0 30px;
+}
+.VisionMissionWrap .info .pic img {
+	width: 100%;
+}
+.VisionMissionWrap .info .detail {
+	position: static;
+	width: 100%;
+	float: left;
+	border-left: 0;
+	border-bottom: 0;
+}
+.VisionMissionWrap .info {
+	margin: 0 0 60px;
+}
+.VisionMissionWrap .mission .detail {
+	border-right: 0;
+}
+.VisionMissionWrap .info.mission {
+	margin: 0;
+}
+.bodWrap .bod {
+	width: 100%;
+	margin-bottom: 30px
+}
+.whyUsReasons .whyUsinfoBox .pic, .whyUsReasons .whyUsinfoBox .detail {
+	width: 100%;
+}
+.ourSolutions .customBuiltToSuit .left {
+	width: 100%;
+}
+.ourSolutions .customBuiltToSuit .right {
+	display: table;
+	margin: 15px auto;
+	float: none;
+}
+.eventList ul li, .newsList ul li {
+	width: 48%;
+	margin: 0 0 20px 3%;
+}
+.eventList ul li:nth-child(3n+1), .newsList ul li:nth-child(3n+1) {
+	margin: 0 0 20px 3%;
+}
+.eventList ul li:nth-child(2n+1), .newsList ul li:nth-child(2n+1) {
+	margin: 0 0 20px;
+}
+.contactus .left, .contactus .right {
+	width: 100%;
+}
+.contactus .right {
+	margin-top: 30px;
+}
+/*added by man */
+.infobox4 a.infobox4a {
+	float: none;
+}
+.infobox4 .directionNearby {
+	float: none;
+	margin-top: 10px;
+}
+.ourParksSearchSec .ParkSearchFilters .area {
+	margin: 0 0 10px;
+	width: 100%;
+}/*added by man from max-width:579px media query*/
+.Map #Map .mInfo .hdetail {
+	display: none;
+}
+.Map {
+	text-align: left;
+}
+.Map #Map {
+	margin: 30px 0;
+}
+.Map #Map .ncr .hdetail, .Map #Map .mumbai .hdetail, .Map #Map .pune .hdetail {
+	text-align: left;
+}
+.Map #Map .mInfo .hdetail .head.ldash::before {
+	right: 0;
+	left: auto;
+	-webkit-transform: translateX(50%) translateY(-50%);
+	        transform: translateX(50%) translateY(-50%);
+}
+.Map #Map .mInfo .hdetail .head.ldash::after {
+	left: 0;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+}
+.Map #Map .ncr .hdetail {
+	left: 140px;
+	top: 114px;
+}
+.Map #Map .ncr .line {
+	left: auto;
+	right: calc(100% - 9px);
+	width: 142px;
+}
+.Map #Map .ncr .line::before {
+	left: 0;
+	height: 116px;
+	top: -116px;
+}
+.Map #Map .ncr .line::after {
+	display: none;
+}
+.Map #Map .pune .hdetail {
+	left: 180px;
+	top: -26px;
+}
+.Map #Map .pune .line {
+	left: auto;
+	right: calc(100% - 9px);
+	width: 183px;
+}
+.Map #Map .pune .line::before {
+	left: 0;
+	height: 4px;
+	top: 0;
+}
+.Map #Map .mumbai .hdetail {
+	left: 180px;
+	top: -22px;
+}
+.Map #Map .mumbai .line {
+	left: auto;
+	right: calc(100% - 9px);
+	width: 183px;
+}
+.Map #Map .mumbai .line::before {
+	left: 0;
+	height: 4px;
+	top: 0;
+}
+.Map #Map .bengaluru .hdetail {
+	left: 132px;
+	top: -96px;
+}
+.Map #Map .bengaluru .line {
+	left: auto;
+	right: calc(100% - 9px);
+	width: 134px;
+}
+.Map #Map .bengaluru .line::before {
+	left: 0;
+	height: 76px;
+	top: 0;
+}
+.Map #Map .chennai .hdetail {
+	left: 102px;
+	top: -98px;
+}
+.Map #Map .chennai .line {
+	left: auto;
+	right: calc(100% - 9px);
+	width: 105px;
+}
+.Map #Map .chennai .line::before {
+	left: 0;
+	height: 84px;
+	top: 0;
+}
+.ourParksDetails .left, .ourParksDetails .right {
+	width: 100%;
+	min-height: inherit;
+	margin: 10px 0;
+}
+.detailMap iframe {
+	width: 100%;
+}
+.bodWrap .bod ul li p {
+	font-size: 12px;
+}
+.journeyAccor .verticleLine .year:nth-child(2n+1) .head span {
+	background: #f26522 url(../images/journeyAccorHead.png) 110px 8px no-repeat;
+	text-align: left;
+	top: -10px;
+	left: 60px;
+}
+.journeyAccor .verticleLine .year:nth-child(2n+1) .head span::before {
+	border-left: 0;
+	border-right: 16px solid #f26522;
+	left: -16px;
+}
+.journeyAccor .verticleLine .year .head, .journeyAccor .verticleLine .year.active:last-child .head {
+	margin-bottom: 44px;
+}
+.journeyAccor .verticleLine .year:nth-child(2n) .detail ul li:nth-child(2n+1) .info, .journeyAccor .verticleLine .year:nth-child(2n+1) .detail ul li:nth-child(2n) .info {
+	left: 94px;
+}
+.journeyAccor .verticleLine .year:nth-child(2n) .detail ul li:nth-child(2n+1) .info::before, .journeyAccor .verticleLine .year:nth-child(2n+1) .detail ul li:nth-child(2n) .info::before {
+	left: -16px;
+	border-left: 0;
+	border-right: 16px solid #fff;
+}
+.journeyAccor, .journeyAccor h2 {
+	text-align: left;
+}
+.journeyAccor h2, .journeyAccor .verticleLine {
+	margin-left: 20px;
+}
+.pastEventListing ul li {
+	width: 47%;
+}
+.pastEventListing ul li:nth-child(3n+1) {
+	margin: 0 0 20px 3%
+}
+.pastEventListing ul li:nth-child(2n+1) {
+	margin: 0 0 20px;
+}
+.eventList ul li, .newsList ul li {
+	min-height: 526px;
+}
+.MakeEnquiryForm ul li, .MakeEnquiryForm ul li:nth-child(1) {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.tbl, .tbl .tblrow, .tbl .tblrow .tblcol {
+	display: block;
+	width: 100%;
+}
+.sitemap ul {
+	margin: 0 0 20px;
+}
+.testimonial ul li {
+	min-height: auto;
+	float: none;
+	display: block;
+	width: 100%
+}
+.testimonial ul li figure > span {
+	float: left;
+	display: inline-block;
+	text-align: left
+}
+.testimonial ul li figure figcaption {
+	float: right;
+	width: 77%;
+	text-align: left
+}
+.pressReleasePopup {width:88% !important;}
+.pressReleasePopup img.poupImg {width:100% !important;}
+}
+ @media only screen and (max-width:579px) {
+header .logo {
+	width: 202px;
+}
+.hBannerSlider ul li .caption h1, .hBannerSlider ul li .caption .container .loc {
+	font-size: 14px;
+}
+.hBannerSlider ul li .caption a.readmore {
+	font-size: 12px;
+	background-position: 64px 4px;
+}
+.latestNewsList ul li {
+	font-size: 16px;
+}
+footer .left {
+	margin: 0 0 10px;
+}
+footer .left, footer .right {
+	width: 100%;
+}
+.turnkey h2, .latestNews h2, .standOut h2 {
+	font-size: 18px
+}
+.esrList .esrinfoBox .pic, .esrList .esrinfoBox .detail {
+	width: 100%;
+}
+.ourParksSearchSec .ParkSearchFilters label {
+	margin: 0 0 5px;
+	width: 100%;
+	font-size: 18px;
+}
+.awardsRecognition .awardBox .container, .awardsRecognition .awardBox.picRight .container {
+	padding: 0;
+}
+.awardsRecognition .awardBox .container .img {
+	position: static;
+	width: 100%;
+	margin-top: 0;
+	border: 0;
+	float: left;
+}
+.awardsRecognition .awardBox {
+	margin: 30px 0;
+}
+.aboutInfo .video {
+	width: 100%;
+	min-height: 0;
+}
+.aboutInfo .video img {
+	position: static;
+	-webkit-transform: none;
+	        transform: none;
+}
+.aboutInfo .upComingEvent {
+	width: 100%;
+	margin: 0 0 3px;
+	min-height: 0;
+}
+.bodWrap .bod ul li {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.bodWrap .bod ul li .detail {
+	vertical-align: middle;
+}
+.popdetail .poppic {
+	padding: 8px;
+}
+.popdetail .popdesc .scroll {
+	padding: 16px 31px 8px 8px;
+	font-size: 12px;
+}
+.popdetail .popclosebtn {
+	top: 4px;
+	right: 10px;
+}
+.esrList .esrinfoBox .pic::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+.esrList .esrinfoBox .container, .esrList .esrinfoBox .pic, .esrList .esrinfoBox .detail {
+	display: block;
+}
+header .topMenuWrap {
+	margin-top: 0;
+}
+}
+
+@media only screen and (max-width:480px){
+    .aboutInfo .upComingEvent .indospce_quarterly{position:relative;}
+}
+@media only screen and (max-width:479px) {
+    
+    .findProjectBtn{width:180px;}
+header {
+	padding: 12px 0;
+}
+header .logo {
+	width: 168px;
+}
+header .topMenuWrap {
+	width: 138px;
+}
+header .topMenuWrap .Menu-btn::before {
+	margin: 0 4px 0 0;
+	padding: 0 6px;
+}
+.Map #Map img {
+	width: 100%;
+}
+.findProjectBtn {
+	font-size: 14px;
+	padding: 12px 8px 20px;
+}
+.findProjectBtn span {
+	font-size: 8px;
+}
+.turnkey .turnkeyListing li {
+	width: 100%;
+}
+.latestNewsList ul li, .latestNewsList ul li:nth-child(1) {
+	width: 98%;
+}
+.latestNewsList ul li .detail, .latestNewsList ul li {
+	min-height: 0;
+}
+.standOut .standOutList ul li {
+	width: 100%;
+}
+.standOut .standOutList ul li .detail {
+	padding: 16px 16px 44px 16px;
+}
+.coreValues .coreValuesList ul li, .coreValues .coreValuesList ul li:nth-child(2n+1) {
+	width: 100%;
+	height: auto;
+	margin: 0 0 30px 0;
+	clear: both;
+}
+.tabbingWrap .tabs ul li {
+	font-size: 16px;
+	padding: 8px 15px;
+}
+.customerInfo .customerLogos ul li {
+	width: 30.5%;
+	margin: 5px 1.3%;
+}
+.eventList ul li, .newsList ul li {
+	width: 100%;
+	margin: 0 0 20px 0;
+	min-height: 0;
+}
+.eventList ul li, .newsList ul li {
+	width: 100%;
+	margin: 0 0 20px 0
+}
+.eventList ul li:nth-child(3n+1), .newsList ul li:nth-child(3n+1),  .eventList ul li:nth-child(2n+1), .newsList ul li:nth-child(2n+1) {
+	margin: 0 0 20px 0;
+}
+.workWithUs .pic, .workWithUs .detail {
+	width: 100%;
+	float: left;
+	display: block;
+}
+.workWithUs .detail::before {
+	background: none;
+}
+/*added by Man */
+div.infoBox {
+	width: 280px !important;
+	margin-top: 500px;
+	margin-left: 14%;
+}
+div.infobox2 {
+	display: none;
+}
+#property_map {
+	height: 850px !important;
+}
+.searchResultMap .searchResults {
+	right: 50%;
+	top: 11px;
+	margin-right: -130px;
+}
+.Map #Map .mInfo {
+	display: none;
+}
+.Banner {
+	height: 212px;
+}
+.Banner .innerCaption .container .innerCaptionText {
+	font-size: 14px;
+}
+.journeyAccor .verticleLine .year:nth-child(2n+1) .detail ul li:nth-child(2n+1) .info, .journeyAccor .verticleLine .year:nth-child(2n) .detail ul li:nth-child(2n+1) .info, .journeyAccor .verticleLine .year:nth-child(2n) .detail ul li:nth-child(2n) .info, .journeyAccor .verticleLine .year:nth-child(2n+1) .detail ul li:nth-child(2n) .info {
+	left: 32px;
+}
+.eventList ul li .detail .date-publish {
+	position: static;
+}
+.makeEnquries .dwnBtn {
+	margin: 0 0 10px;
+}
+}
+@media only screen and (max-width:379px) {
+header .logo {
+	width: 156px;
+}
+header .topMenuWrap {
+	width: 118px;
+}
+header .topMenuWrap .Menu-btn::before {
+	font-size: 12px;
+}
+header .topMenuWrap .Menu-btn .stripes {
+	margin-right: 0;
+}
+.hBannerSlider ul li .caption {
+	bottom: 18px;
+}
+.hBannerSlider .bx-controls {
+	bottom: 16px;
+}
+.hBannerSlider .bx-wrapper .bx-pager .bx-pager-item {
+	top: -16px;
+}
+.hBannerSlider ul li .caption .container {
+	padding: 0 98px 0 0;
+}
+header .topMenuWrap .Menu-btn .stripes .stripe {
+	width: 20px;
+}
+.bodWrap .bod ul li {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.capbilities_diagram ul.diagrm {
+	float: left;
+}
+.capbilities_diagram ul.diagrm h1 {
+	font-size: 20px;
+}
+ul.diagrm li.first {
+	right: -170px;
+	top: 134px;
+}
+ul.diagrm li.fifth {
+	right: -170px;
+	top: 476px;
+	height: 32px;
+}
+ul.diagrm li.ninth {
+	height: 32px;
+	bottom: 133px;
+	left: 170px;
+}
+.tabbingWrap.notabbing .tabs ul li a {
+	padding: 8px 10px;
+	font-size: 15px;
+}
+.contactus .contacForm ul li {
+	margin: 0 0 10px;
+}
+.contactus .contacForm ul li label, .contactus .contacForm ul li .field {
+	width: 100%;
+}
+div.infoBox {
+	margin-left: 0;
+}
+}

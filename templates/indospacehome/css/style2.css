@@ -1,0 +1,17 @@
+#crack, body,  .custom{background-color:#222f3e;}
+.cards{
+    height:200px;
+    width: 200px;
+}
+.green{
+color:#F2F1EF !important;
+}
+.megaman{
+    color: #48dbfb !important;
+}
+#footer{
+    height: 450px;
+}
+.circle{
+border-radius: 50%;
+}

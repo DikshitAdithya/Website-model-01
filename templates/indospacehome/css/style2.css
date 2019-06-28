@@ -10,8 +10,13 @@ color:#F2F1EF !important;
     color: #48dbfb !important;
 }
 #footer{
-    height: 450px;
+    height: 400px !important;
+    background-color: #222f3e;
+    
 }
 .circle{
 border-radius: 50%;
+}
+.btncolor{
+    color: #48dbfb !important;
 }
